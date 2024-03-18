@@ -1,0 +1,13 @@
+ const puppeteer = require("puppeteer");
+
+ (async ()=>{
+    const browser = await puppeteer.launch();
+    // browser (puppeteer.launch()) is hadless by default. If we set headless:false browser will open after this code execute.
+    // const browser = await puppeteer.launch({
+    //     headless: false
+    // })
+    const page = await browser.newPage();
+    await page.goto('https://example.com');
+    await page.screenshot({path:'example.png'});
+    await browser.close()
+ })();
