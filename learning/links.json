@@ -1,0 +1,70 @@
+[
+    {
+        "href": "https://mail.google.com/mail/&ogbl",
+        "text": "Gmail"
+    },
+    {
+        "href": "https://www.google.com/imghp?hl=sr&ogbl",
+        "text": "Слике"
+    },
+    {
+        "href": "https://www.google.rs/intl/sr/about/products",
+        "text": ""
+    },
+    {
+        "href": "https://accounts.google.com/ServiceLogin?hl=sr&passive=true&continue=https://www.google.com/&ec=GAZAmgQ",
+        "text": "Пријави ме"
+    },
+    {
+        "href": "https://www.google.com/setprefs?sig=0_Ai4fUmrf-yykvI-qMZUgR_gpxk4%3D&hl=sr-Latn&source=homepage&sa=X&ved=0ahUKEwip5LTzkoSFAxV6hP0HHYjNAHEQ2ZgBCBQ",
+        "text": "srpski"
+    },
+    {
+        "href": "https://www.google.com/setprefs?sig=0_Ai4fUmrf-yykvI-qMZUgR_gpxk4%3D&hl=en&source=homepage&sa=X&ved=0ahUKEwip5LTzkoSFAxV6hP0HHYjNAHEQ2ZgBCBU",
+        "text": "English"
+    },
+    {
+        "href": "https://about.google/?utm_source=google-RS&utm_medium=referral&utm_campaign=hp-footer&fg=1",
+        "text": "Основни подаци"
+    },
+    {
+        "href": "https://www.google.com/intl/sr_rs/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1",
+        "text": "Оглашавање"
+    },
+    {
+        "href": "https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1",
+        "text": "За посао"
+    },
+    {
+        "href": "https://google.com/search/howsearchworks/?fg=1",
+        "text": " Како ради Претрага "
+    },
+    {
+        "href": "https://policies.google.com/privacy?hl=sr&fg=1",
+        "text": "Приватност"
+    },
+    {
+        "href": "https://policies.google.com/terms?hl=sr&fg=1",
+        "text": "Услови"
+    },
+    {
+        "href": "https://www.google.com/preferences?hl=sr&fg=1",
+        "text": "Подешавања претраге"
+    },
+    {
+        "href": "https://www.google.com/advanced_search?hl=sr&fg=1",
+        "text": "Напредна претрага"
+    },
+    {
+        "href": "https://www.google.com/history/privacyadvisor/search/unauth?utm_source=googlemenu&fg=1&cctld=com",
+        "text": "Ваши подаци у Претрази"
+    },
+    {
+        "href": "https://www.google.com/history/optout?hl=sr&fg=1",
+        "text": "Историја претраге"
+    },
+    {
+        "href": "https://support.google.com/websearch/?p=ws_results_help&hl=sr&fg=1",
+        "text": "Помоћ за претрагу"
+    }
+]
