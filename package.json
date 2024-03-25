@@ -2,7 +2,7 @@
   "name": "puppeteer",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "puppeteer": "^22.5.0"
+  },
+  "devDependencies": {
+    "@types/puppeteer": "^7.0.4"
   }
 }
